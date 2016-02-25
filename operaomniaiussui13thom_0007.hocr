@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaiussui13thom/operaomniaiussui13thom_0007.png"; bbox 0 0 2586 4238; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 396 580 4228">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 396 580 4228">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 396 580 4228; baseline 0 -2713"><span class='ocrx_word' id='word_1_1' title='bbox 0 396 452 4228; x_wconf 95' lang='lat' dir='ltr'>   </span> <span class='ocrx_word' id='word_1_2' title='bbox 508 1308 580 1332; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 259 1539 2469 1896">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 259 1539 2469 1925">
+     <span class='ocr_line' id='line_1_2' title="bbox 259 1539 2293 1620; baseline 0 -22"><span class='ocrx_word' id='word_1_3' title='bbox 259 1596 262 1598; x_wconf 73' lang='grc'>,</span> <span class='ocrx_word' id='word_1_4' title='bbox 457 1584 543 1594; x_wconf 72' lang='grc'>,.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1106 1539 1462 1614; x_wconf 57' lang='lat' dir='ltr'><strong>SANC„</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1814 1571 1818 1576; x_wconf 94' lang='lat'>.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1944 1574 1950 1576; x_wconf 92' lang='grc'>.</span> <span class='ocrx_word' id='word_1_8' title='bbox 2287 1614 2293 1620; x_wconf 60' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 300 1642 2469 1896; baseline -0.01 -34"><span class='ocrx_word' id='word_1_9' title='bbox 300 1642 1120 1896; x_wconf 67' lang='grc' dir='ltr'>ῙᾈΗΟΜΑΕ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1219 1700 2346 1872; x_wconf 72' lang='lat' dir='ltr'><strong>AQUINATIS‘</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2454 1801 2469 1812; x_wconf 87' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1003 2207 1592 2270">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1003 2207 1592 2270">
+     <span class='ocr_line' id='line_1_4' title="bbox 1003 2207 1592 2270; baseline -0.005 -2"><span class='ocrx_word' id='word_1_12' title='bbox 1003 2210 1283 2270; x_wconf 81' lang='lat' dir='ltr'>OPERA</span> <span class='ocrx_word' id='word_1_13' title='bbox 1324 2207 1592 2266; x_wconf 74' lang='lat' dir='ltr'><strong>OMNIA</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
