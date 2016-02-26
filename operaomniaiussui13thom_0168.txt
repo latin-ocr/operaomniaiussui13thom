@@ -1,0 +1,164 @@
+'¹ Lect. 9.
+
+· V Metaph„ 1. c.
+
+94
+
+definiatur, semper in sua definitione, quae per nomen
+importatur, includit subiectum. Cum enim definitur in
+abstracto, includit illud in obliquo, sicut cum dicitur,
+Simitas est curvitas nasi: cum autem definitur in concreto,
+illud includit in recto, ut cum dicitur, Simum est nasus
+curvus. Differunt autem isti duo modi includendi sub-
+iectum. Quia cum nomen abstractum includit subiectum
+in sua significatione, subiectum non est pars significati
+nominis, sed magis exprimitur tanquam extraneum ad
+quod habet habitudinem: cum enim albedo significet id
+tantum quo aliquid est album, subiectum autem nullo
+modo sit id quo aliquid est album, nullo modo subiectum
+est aliquid per tale nomen significatum. Cum vero nomen
+concretum accidentis includit subiectum, illud includit tan-
+quam partem significati, secundariam tamen, et tanquam
+cum principali significato consignificatam: album enim si-
+gnificat principaliter albedinem, secundario autern consi-
+gnificat subiectum habens albedinem. - Hoc habetur ex
+Averroe, V Metaph„ comment. 14, et a Sancto Thoma
+ibidem ἦ ubi dicunt, contra Avieennam, quod album primo
+significat accidens, secundo subiectum: et idem habetur
+Ι Phys„ comment. 25. Et addit Sanctus Thomas ⁴* quod
+albedo nullo modo consignificat subiectum. Signum huius
+diversitatis est quod per abstractum importatur subiectum
+in obliquo, per concretum vero importatur in recto, tan·
+quarn denominatum a forma.
+
+Considerandum secundo, quod significari per modum
+substantiae, et significari per modum accidentis, refertur
+ad ipsam formam principaliter significatam. Dicitur enim
+a nomine significari per modum substantiae, quando eo
+modo significatur per nomen quo modo substantia extra
+intellectum habet esse. Et quia substantia extra intellectum
+existens est ens non existens in alio subiecto inhaerenter,
+ideo dicitur significari forma accidentalis per modum sub-
+stantiae, quando non significatur cum alio significato cui
+inhaereat. Sic autem significatur nomine abstracto: nam
+ipsam solitarie significat, nihil aliud cum ipsa consignifi-
+cando. — Dicitur autem significari per modum accidentis,
+quando illo modo significatur per nomen quo accidens
+habet esse in rerum natura. Unde, cum accidentis esse
+sit inesse, tunc per modum accidentis significatur quando
+cum alio per modum illi inhaerentis significatur. Et sic
+significatur nomine concreto. Tale enim nomen significat
+formam per modum inhaerentis subiecto, et ipsum sub-
+iectum cum illa modo dicto significat.
+
+Considerandum tertio, quod non est idem nomen si-
+gnificare per modum substantiae, et nomen significare per
+modum completi subsistentis. Similiter non est idem signi·
+ficare aliquid ut quo aliquid est ex parte nominis, et si-
+gnificare per modum accidentis. Nomen enim significare
+per modum substantiae accipitur per comparationem ad
+formam principaliter significatam, quae significatur solitarie
+absque alio consignificato cui inhaereat, ut patet ex dictis.
+Sed nomen significare per modum completi subsistentis
+est significare per modum substantiae completae in specie,
+et non per modum partis. - Significare etiam aliquid ut
+quo aliquid est tale aptitudinaliter‚ ut hic intelligitur, est
+significare aliquid ut formam et ut naturam simplicem
+solitarie absque cuiuscumque alterius consignificatione,
+quia sola forma est id quo aliquid formaliter est tale.
+significare autem per modum accidentis aet non solam
+formam significare, sed cum ipsa etiam subiectum, tan-
+quam id cui forma inhaeret, consignificare, ut superius
+dictum est.
+
+2. Ex iis patet primo, quod nomen concretum et nomen
+abstractum accidentis ex parte rei significatae distinguuntur,
+quia nomen abstractum significat solam formam, nomen
+vero concretum significat non solam formam, sed etiam
+subiectum formae. Et ideo illud dicitur significare per
+
+SUMMA CONTRA GENTILES, CAP. XXX.
+
+modum substantiae, istud vero per modum accidentis. -
+Distinguuntur etiam quia nomen abstractum, cum signi-
+ficet solam formam, non significat ipsam tanquam com-
+pletum aliquod quod habeat esse, sed tanquam id quo
+aliquid habet esse aptitudinaliter‚ quia formae, apud nos,
+non subsistunt tanquam completae in specie: nomen vero
+concretum, cum secundario significet subiectum quod habet
+esse per formam, significat aliquid tanquam id quod habet
+esse, et per consequens per modum completi subsistentis3
+nam solum id quod substantialiter subsistit, est id quod
+proprie habet esse accidentale per formam accidentalem.
+
+Patet secundo, quod obiectio nulla est. Procedit enim
+ac si idem sit significare rem ut qua aliquid formaliter
+est, et significare rem per modum accidentis. Hoc autem,
+ut patuit, est falsum. Nam idem nomen et significat per
+modurn substantiae, sive per se stantis, et ut quo aliquid
+est. Nam per se stare dupliciter accipi potest: uno modo,
+ut opponitur ei quod est accidentaliter inhaerere3 alio
+modo, ut idem est quod nullo modo in alio esse, quod
+idem est quod subsistere tanquam completum in specie.
+Primo modo nomen abstractum significat per modum per
+se stantis, non autem secundo modo.
+
+VII. Sed circa praedicta triplex occurrit dubium. Primum
+est, quia Sanctus Thomas, ISent„ d. xxn, q. 1, a. ι, ad 3, in-
+quit quod illud quod significatur per nomen, significatur
+ut subsistens; et dat exemplum de albedine. Ergo falsum est
+quod diximus, nomen abstractum significare quidem per
+modum substantiae, non autem per modum subsistentis.
+
+Secundum est, quia in Praedicamentis ⁴* dicitur quod
+album puram qualitatem significat. Et Sanctus Th0mas,
+111 Seni„ d. vn, q. 1, a. ι, ad 5, tenet quod album non si-
+gnificat suum subiectum, sed ipsum copulat quasi extrin-
+secum. Ergo male dictum est quod concretum siguificat
+non tantum formam, sed etiam subiectum.
+
+Tertium est, quia Commentator, 11 de Anima, com-
+ment. 8, inquit quod in rebus artificialibus nomen prino
+dicitur de materia, et secundo de congregato. Ergo falsum
+est quod nomen concretum primo significet formam et
+secundario subiectum, ut superius est dictum.
+
+VIII. Ad primum dicitur quod aliter accipit Sanctus
+Thomas in loco allegato significare per modum subsi-
+stentis, quam accipiat hoc loco et in Prima Parte “. Nam
+ibi accipitur significare per modum subsistentis ut idem est
+quod significare non per modum egredientis ab altero, quo
+modo nomen a verbo distinguitur. Hic autem accipimus
+significare per modum subsistentis ut idem est quod signi-
+ficare per modum substantiae completae in specie, quae
+proprie est id quod habet esse. Unde nulla est contradictio.
+
+Ad secundum dicitur quod Sanctus Th0mas et Aristo—
+teles de primo et formali significato nominis loquuntur:
+hoc enim unum esse oportet. Huic autem non repugnat
+quod secundario aliquid aliud per modum subiecti con·
+significet.
+
+Ad tertium dicitur, secundum Commentatorem ibidem,
+quod, cum nomen in rebus artificialibus dicatur et-de indi-
+viduo substantiae per se, et de artificiato inquantum hu-
+iusmodi, dupliciter potest considerari tale nomen. Uno
+modo, ut est nomen artificiati inquantum huiusmodi. Et
+sic primo significat formam artificialem, et secundario ma·
+teriam: sicut et alia nomina accidentium concreta. - Alio
+modo, ut est nomen individui substantiae per se et ut est
+etiam nomen artificiati. Et sic prius dicitur de materia. et
+secundo de congregato ex materia et forma artificiali: idest,
+istud nomen est prius secundum quod significat indivi-
+duum substantiae, quam secundum quod significat artifi-
+ciatum, sicut dat exemplum Commentator de securi3 nam,
+etiam remota acutie, quae est forma artifieiati, remanet
+securis, quae est individuum substantiae. Et sic intelligitur
+dictum Commentatoris.
+
+Ξ ,m
+
+“ Cap. ιιι, ¹7·
+
+'Qu-xmflndfl.
+
